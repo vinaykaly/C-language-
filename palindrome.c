@@ -18,7 +18,7 @@ void main(){
       number = number/10;
                     }
     else{
-        ( result == x)? printf("it is a palindrome of digit"): printf("not a palindrome of digit);
+        ( result == x)? printf("it is a palindrome of digit"): printf("not a palindrome of digit");
       
          }
     }
